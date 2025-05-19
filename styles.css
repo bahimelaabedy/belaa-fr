@@ -275,7 +275,7 @@ footer {
    ========================= */
 @media (max-width: 600px) {
     .container {
-        padding: 0;
+        padding-botton: 20px;
         border-radius: 16px;
     }
     .header {
